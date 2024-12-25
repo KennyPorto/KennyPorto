@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s6.gifyu.com/images/S6Auk.gif" alt="Hi, I'm João 👋 I'm a 🚀 Portuguese developer 🚀 I ❤️ Learning Code ❤️">
+  <img src="https://i.imgur.com/YQL3mGs.gif" alt="Hi, I'm João 👋 I'm a 🚀 Portuguese developer 🚀 I ❤️ Learning Code ❤️">
 </p>
 
 <div align="center">
